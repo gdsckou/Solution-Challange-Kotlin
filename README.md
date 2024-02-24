@@ -1,4 +1,4 @@
-# Welfare - Dont waste it, share it.</p>
+![welfare5 3](https://github.com/gdsckou/Solution-Challange-Kotlin/assets/152609338/a496a371-120b-4409-b847-128df6771911)# Welfare - Dont waste it, share it.</p>
 
 ## Table of Contents
 |   |   |
@@ -10,7 +10,8 @@
 | [5. Homepage](#homepage) | [10. Demo](#demo) |
 
 
-  <img src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/116732291/adaf7f36-7212-4c83-94f5-b161e8dd69db" alt="SC logo design">
+  <img src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/152609338/815aa0c0-1b3b-4723-906f-f3eb2f6e0164" alt="SC logo design">
+
 
 
 
@@ -21,7 +22,7 @@ Welfare is an application designed as a money-free sharing platform, facilitatin
 
 
 <p align="center">
-  <img src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/116732291/7183dd94-f4e2-4522-b6ef-2f847f4463d8" alt="Solution Challenge">
+  <img src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/152609338/3e997838-09bc-4829-9220-f5ebb2cc71da" alt="Solution Challenge">
 </p>
 
 
@@ -57,41 +58,39 @@ Welfare is an application designed as a money-free sharing platform, facilitatin
 
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img width="200" alt="welfare1" src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/116732291/bfb9b65f-3062-42c2-855e-1e85057fe7c0">
-    <img width="200" alt="welfare2" src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/116732291/b39e2475-898a-423d-a4e3-c572c5452f33">
-    <img width="200" alt="welfare3" src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/116732291/6dc634ff-12a1-434b-a80c-cf3e50bbcecf">
-    <img width="200" alt="welfare4" src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/116732291/4519878e-7b9f-4905-9dba-98eb576b8b7a">
+    <img width="200" alt="welfare1" src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/152609338/670d2a6c-ad02-43c2-9526-16d84424edb0">
+    <img width="200" alt="welfare2" src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/152609338/90134abf-45c4-4f64-8011-a14203dcfff4">
+    <img width="200" alt="welfare3" src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/152609338/90f5ec40-3852-46d4-87c6-021a5f4b6c8e">
+    <img width="200" alt="welfare4" src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/152609338/e0ccf630-a467-48c0-9cb9-d7713944470c">
 </div>
 
 ## Homepage
 
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img width="200" alt="welfare5_1" src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/116732291/6063a323-09c5-4897-b013-df4fc4ff6b2d">
-    <img width="200" alt="welfare5_2" src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/116732291/524c8f0a-77b1-4746-9c75-3fb5903c4c27">
-    <img width="200" alt="welfare5_3" src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/116732291/be0581b0-99e9-4798-9c0b-8be0c22480c1">
-    <img width="200" alt="welfare5_4" src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/116732291/a1a1cef5-926a-4124-9221-9c7c379ea436">
+    <img width="200" alt="welfare5_1" src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/152609338/ab99a31a-62e4-4d63-b1ef-8b36c7b87b57">
+    <img width="200" alt="welfare5_2" src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/152609338/a2a909c7-7d5b-4604-94a3-e58b36df1b57">
+    <img width="200" alt="welfare5_3" src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/152609338/6217bcd5-5d1e-4e71-8b5f-2235c1f83bc0">
+    <img width="200" alt="welfare5_4" src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/152609338/0f552d60-63a3-4df6-be08-f93abea71556">
 </div>
 
 ## Actions
 
-
 <div style="display: flex; flex-wrap: wrap;">
 
-  <img width="200" alt="welfare6 1" src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/116732291/b02b24d5-a053-45d3-b92d-d8ab1ae07677">
-  <img width="200" alt="welfare6 2" src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/116732291/790a659f-d451-4e45-951e-c1a5920c87ee">
-  <img width="200" alt="welfare6 3" src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/116732291/905028b9-e17a-4c04-8b52-0fab1ad20e51">
-  <img width="200" alt="welfare6 4" src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/116732291/20a4b33d-215e-42cb-94b1-0d359d10f49d">
+  <img width="200" alt="welfare6 1" src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/152609338/3674ca97-83d9-45a3-bd5b-a35467c75c3f">
+  <img width="200" alt="welfare6 2" src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/152609338/cfb47316-dc87-4317-9064-912a79c46e75">
+  <img width="200" alt="welfare6 3" src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/152609338/aa317b9b-13c5-4d44-b44b-3f6cc37303cc">
+  <img width="200" alt="welfare6 4" src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/152609338/361412ad-5745-4771-ad0b-8a8c69729218">
 </div>
 
 ## Profile
 
-
 <div style="display: flex; flex-wrap: wrap;">
-      <img width="200" alt="welfare7 1" src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/116732291/2f27d683-005c-4fce-ad76-6dd45009fd8b">
-      <img width="200" alt="welfare7 2" src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/116732291/8b165fdb-892e-45d4-a3cc-f24d15e2fc24">
-      <img width="200" alt="welfare7 3" src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/116732291/1323ccdc-0b38-47e9-bef4-cd9a25034f8f">
-      <img width="200" alt="welfare7 4" src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/116732291/772d11ba-d7c8-41b7-b3ac-7be2ca7beeb4">
+      <img width="200" alt="welfare7 1" src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/152609338/9a8622a4-bc75-4a79-8fb8-4c532597dc36">
+      <img width="200" alt="welfare7 2" src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/152609338/e61b0035-33bc-4278-a90e-3e68b23a1529">
+      <img width="200" alt="welfare7 3" src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/152609338/174e2a7b-bea3-4bea-92d2-fa06f3220c19">
+      <img width="207" alt="welfare7 4" src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/152609338/bf2bfa83-7eed-4d53-bd9b-06cf73e3d5c7">
 
 </div>
 
