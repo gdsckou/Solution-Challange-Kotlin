@@ -90,8 +90,7 @@ Welfare is an application designed as a money-free sharing platform, facilitatin
       <img width="200" alt="welfare7 1" src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/152609338/9a8622a4-bc75-4a79-8fb8-4c532597dc36">
       <img width="200" alt="welfare7 2" src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/152609338/e61b0035-33bc-4278-a90e-3e68b23a1529">
       <img width="200" alt="welfare7 3" src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/152609338/174e2a7b-bea3-4bea-92d2-fa06f3220c19">
-      <img width="207" alt="welfare7 4" src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/152609338/bf2bfa83-7eed-4d53-bd9b-06cf73e3d5c7">
-
+      <img width="205" alt="welfare7 4" src="https://github.com/gdsckou/Solution-Challange-Kotlin/assets/152609338/67a757c3-a58a-492a-9005-31afb8a23da9">
 </div>
 
 
