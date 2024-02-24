@@ -1,4 +1,4 @@
-![welfare5 3](https://github.com/gdsckou/Solution-Challange-Kotlin/assets/152609338/a496a371-120b-4409-b847-128df6771911)# Welfare - Dont waste it, share it.</p>
+# Welfare - Dont waste it, share it.</p>
 
 ## Table of Contents
 |   |   |
